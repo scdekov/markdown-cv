@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kamen Kanev
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kamen Kanev
+Software engineer, Creator, Wanna be Philosopher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
+| <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">My LinkedIn profile</a>
 </div>
 
 
