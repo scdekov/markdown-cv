@@ -13,7 +13,7 @@ Software engineer, Creator, Wanna be Philosopher.
 
 ## Currently
 
-Standing on the shoulders of giants
+I'm working as Backend team lead in Rifiniti. Using exclusively PostgreSQL and GraphQL.
 
 ### Specialized in
 
