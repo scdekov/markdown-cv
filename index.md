@@ -3,7 +3,7 @@ layout: cv
 title: Kamen Kanev
 ---
 # Kamen Kanev
-Software engineer, Creator, Wanna be Philosopher.
+Engineer, Creator, Wanna be Philosopher.
 
 <div id="webaddress">
 <a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
@@ -11,81 +11,60 @@ Software engineer, Creator, Wanna be Philosopher.
 </div>
 
 
-## Currently
+## About me
 
-I'm working as Backend team lead in Rifiniti. Using exclusively PostgreSQL and GraphQL.
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Senior software engeener with passion and desire to make a difference for the community. I'm naturally curios and I really love asking questions and with time the questions become better. Asking "Why?" often makes the difference between chaos and progress in a project. I believe that a team should find processes and not the other way around. The right team for me will be full with open-minded, frendly people with sense of humor, people like me.
 
 
-### Research interests
+### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Critical and analytical thinking, Openness and enthusiasm and a Quick learner
 
 
+## Professional Experience
 
-## Awards
+### Senior Full-Stack developer
 
-`2012`
-President, *Royal Society*, London, UK
+`2019-now`
+__FM::Systems__
 
-Associate, *French Academy of Science*, Paris, France
+- Working as unofficial Team Lead I have gained new experience in the management side of the profession as: planning sprints, working against tight estimates and being responsible of huge part of the system. I've also added new techologies to my tech stack: GraphQL and Python. I also workig on different services written on Ruby and NodeJS and I gained a lot of expertise in building complex SQL queries and solving hard database problems.
 
+### Senior Full-Stack Ruby developer
 
+`2017-2019`
+__ReceiptBank__
 
-## Publications
+- In ReceiptBank I have learned a lot about being pragmatic and organized. The amazing
+code review process strengthened, even more, my code quality standards. Reviewing other
+people's work thought me how to express myself better.
+I have learned a lot in both technical and managing aspect of the craft.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Full-Stack Ruby developer
 
-### Journals
+`2016-2017`
+__Tradeo__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- The more mature part of my work in Tradeo was interesting and challenging. I worked with
+new technologies, also managing people and tasks. Actively contributing to the code
+review process.
+  - Developing features and services within a highly reliable NodeJS backend.
+  - Starting from scratch a CMS project as a head developer
+  - Dealing with various high-level design decisions
 
-`1669`
-Lectiones opticæ.
+### Junior web developer
 
-etc. etc. etc.
+`2015-2016`
+__Tradeo__
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Starting as a novice with mostly academical knowledge, I was very motivated and
+passionate about the work. I took most of the offered mentorship and managed to make
+my way to the interesting and challenging tasks:
+  - Integrating a new payment provider
+  - Developing a transaction table within the most dynamic part of the
 
 
 <!-- ### Footer
 
-Last updated: May 2019 -->
-
+Last updated: January 2020 -->
 
