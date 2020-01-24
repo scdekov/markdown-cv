@@ -31,7 +31,8 @@ __FM::Systems__
 
 Leading a team, Planning sprints and being responsible for huge part of the system. Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analyzes of time-series data for big periods.
  
-  - try
+- one
+- two
 
 ### Senior Full-Stack Ruby developer
 
