@@ -67,6 +67,18 @@ Starting as a novice with mostly academical knowledge, I was very motivated and 
  - Developing a transaction table component in React within the most dynamic part of the application
  - Integrating a new payment provider
 
+## Education
+
+`2013-∞`
+__Faculty of Mathematics and Informatics, Sofia University, Bulgaria__
+
+Learning for Bachelor Degree in Computer Science, 3th year
+
+`2008-2013`
+__School of Mathematics and Nature sciences, Haskovo, Bulgaria__
+
+Graduated as Mathematician of class 2013
+
 
 <!-- ### Footer
 
