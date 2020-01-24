@@ -3,12 +3,12 @@ layout: cv
 title: Kamen Kanev
 ---
 # Kamen Kanev
-Software Engineer
+Senior Software Engineer
 
 <div id="webaddress">
 <a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
-| <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">My LinkedIn profile</a>
-| <a href="https://github.com/kanevk"> Github </a>
+| <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">My LinkedIn</a>
+| <a href="https://github.com/kanevk"> My Github </a>
 </div>
 
 
