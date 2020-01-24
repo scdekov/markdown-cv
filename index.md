@@ -20,49 +20,52 @@ Critical and analytical thinking, openness and enthusiasm
 
 ### Technologies
 
-Ruby on Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS
+Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
 
 ## Professional Experience
 
-### Senior Developer
+### Senior Backend Developer
 
 `2019-ongoing`
 __FM::Systems__
 
-Leading a team, Planning sprints and being responsible for huge part of the system. Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analyzes of time-series data for big periods.
+Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analyzes(1s) of time-series data for big time periods. Part of my contribution is:
  
-- one
-- two
+- Leading a team
+- Optimizing the load time of the main page with as much as 20%
+- Speeding up the data deploys more than 100%
+- Fixing a major issue in the business critical logic under 1 day
 
-### Senior Full-Stack Ruby developer
+### Senior Fullstack Ruby Developer
 
 `2017-2019`
 __ReceiptBank__
 
-I have learned a lot about being pragmatic and organized. The amazing code review process strengthened, even more, my code quality standards. Reviewing other people's work thought me how to express myself better. I have learned a lot in both technical and managing aspect of the craft.
+Working under "Majestic Rails Monilth", carring refactorings and introducing new features have learned me a lot. Under the excellent mentorship I've learned a lot about being pragmatic and organized. The amazing code review process strengthened, even more, my code quality standards. Reviewing other people's work thought me how to express myself better. Part of my contribution is:
 
-### Full-Stack Ruby developer
+  - Delivering a medium feature in the first month of employment
+  - Completing full stack refactoring of an important business UI component
+  - Becoming a mandatory code reviewer of the company's biggest application
+
+### Full-Stack Ruby Developer
 
 `2016-2017`
 __Tradeo__
 
-The more mature part of my work in Tradeo was interesting and challenging. I worked with new technologies, also managing people and tasks. Actively contributing to the code review process.  
+The more mature part of my work in Tradeo was interesting and challenging. I worked with new technologies, also managing people and tasks. Actively contributing to the code review process.
 
-Developing features and services within a highly reliable NodeJS backend.  
-Starting from scratch a CMS project as a lead developer.  
-Dealing with various high-level design decisions.
+ - Developing features and services within a highly reliable NodeJS backend
+ - Building from scratch in-house Content Management System as a head developer
 
-### Junior web developer
+### Junior Web Developer
 
 `2015-2016`
 __Tradeo__
 
-Starting as a novice with mostly academical knowledge, I was very motivated and
-passionate about the work. I took most of the offered mentorship and managed to make
-my way to the interesting and challenging tasks:
+Starting as a novice with mostly academical knowledge, I was very motivated and passionate about the work. I took most of the offered mentorship and managed to make my way to the interesting and challenging tasks:
 
-Integrating a new payment provider  
-Developing a complex React component within the most dynamic part of the Frontend application.  
+ - Developing a Transaction table component in React within the most dynamic part of the application
+ - Integrating a new payment provider(for more than 2 months)
 
 
 <!-- ### Footer
