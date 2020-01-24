@@ -72,7 +72,7 @@ Starting as a novice with mostly academical knowledge, I was very motivated and 
 `2013-∞`
 __Faculty of Mathematics and Informatics, Sofia University, Bulgaria__
 
-Learning for Bachelor Degree in Computer Science, 3th year
+Studying Bachelor Degree in Computer Science, 3rd year
 
 `2008-2013`
 __School of Mathematics and Nature sciences, Haskovo, Bulgaria__
