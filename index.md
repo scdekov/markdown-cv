@@ -13,10 +13,10 @@ Software Engineer
 
 
 ## Emphasis
-Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on Data heavy applications and doing complex refactorings.
+Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on data heavy applications and doing complex refactorings.
 
 ### Strengths
-Critical and analytical thinking, Openness and enthusiasm
+Critical and analytical thinking, openness and enthusiasm
 
 ### Technologies
 
@@ -30,6 +30,8 @@ Ruby on Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS
 __FM::Systems__
 
 Leading a team, Planning sprints and being responsible for huge part of the system. Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analyzes of time-series data for big periods.
+ 
+  - try
 
 ### Senior Full-Stack Ruby developer
 
