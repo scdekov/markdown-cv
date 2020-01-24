@@ -29,7 +29,7 @@ Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistr
 `2019-ongoing`
 __FM::Systems__
 
-Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analysis(<1s) of time-series data for big time periods. Part of my contribution is:  
+Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 100k rows) for custom time ranges. Part of my contribution is:  
   
 - Leading a team
 - Optimizing the load time of the main page with as much as 20%
@@ -55,7 +55,7 @@ __Tradeo__
 Steping in a higher position in Tradeo, I began writing NodeJS, started managing people and actively contributed to the code review process. My achivements were:  
   
  - Developing features and services within a highly reliable NodeJS backend
- - Building from scratch in-house Content Management System as a head developer
+ - Building from scratch in-house Content Management System(inspirated by React) as a head developer
 
 ### Junior Web Developer
 
