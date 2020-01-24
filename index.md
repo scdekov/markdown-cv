@@ -30,7 +30,7 @@ Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistr
 __FM::Systems__
 
 Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analysis(<1s) of time-series data for big time periods. Part of my contribution is:  
- 
+  
 - Leading a team
 - Optimizing the load time of the main page with as much as 20%
 - Speeding up the data deploys more than 100%
@@ -42,7 +42,7 @@ Working exclusively on Rails and NodeJS backed services. Major part of my work i
 __ReceiptBank__
 
 Working under "Majestic Rails Monilth", carring refactorings and introducing new features have taught me a lot. Under excellent mentorship I've learned a lot about being pragmatic and organized. Reviewing other people's work taught me how to express myself better. Part of my contribution is:  
-
+  
   - Delivering a medium feature in the first month of employment
   - Completing full stack refactoring of an important business UI component
   - Becoming a mandatory code reviewer of the company's biggest application
@@ -52,8 +52,8 @@ Working under "Majestic Rails Monilth", carring refactorings and introducing new
 `2016-2017`
 __Tradeo__
 
-The more mature part of my work in Tradeo was interesting and challenging. I worked with new technologies, also managing people and tasks. Actively contributing to the code review process.  
-
+Steping in a higher position in Tradeo, I began writing NodeJS, started managing people and actively contributed to the code review process. My achivements were:  
+  
  - Developing features and services within a highly reliable NodeJS backend
  - Building from scratch in-house Content Management System as a head developer
 
