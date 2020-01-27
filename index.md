@@ -40,7 +40,7 @@ Worked on healthcare-related web system containing Django API, VueJS front-and a
 
 Worked on web scraper system of giant online store. Worked very closely with the client while designing the architecture of the system. Being lead of a small team. We were using mostly AWS services like Lambda(Python) and SQS. Using serverless framework. 
 
-### Soware Developer at Nemetschek Bulgaria, Sofia
+### Soware Developer at Nemetschek Bulgaria
 
 `April 2015 - November 2018`
 __Nemetschek__
@@ -63,7 +63,7 @@ Studying Bachelor Degree in Informatics
 ## Courses
 
 `November 2018 – December 2018`
-__Machine Learning (Stanford University), Coursera
+__Machine Learning (Stanford University), Coursera__
 
 <!-- ### Footer
 
