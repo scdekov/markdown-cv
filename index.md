@@ -45,13 +45,7 @@ Worked on web scraper system of giant online store. Worked very closely with the
 `April 2015 - November 2018`
 __Nemetschek__
 
-Building multiple web systems from scratch, using Django, KnockoutJS, AWS, latest CD technologies... . Also being mentor of a junior developers. Languages, technologies and tools used:
-
-- Python, JavaScript, PHP, HTML, CSS
-- Django, NodeJS, KnockoutJS, Ansible
-- AWS: EC2, Lambda, RDS, S3, Serverless, CloudFront, APIGateway, CloudFormation
-- MySQL, Memcached, RabbitMQ, Redis
-- Linux, Git
+Building multiple web systems from scratch, using Python, Django, KnockoutJS, AWS... . Also being mentor of a junior developers.
 
 ## Education
 
