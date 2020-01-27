@@ -1,84 +1,69 @@
 ---
 layout: cv
-title: Kamen Kanev
+title: Svetoslav Dekov
 ---
-# Kamen Kanev
-Senior Software Engineer
+# Svetoslav Dekov
+Software Architect
 
 <div id="webaddress">
-<a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
-| <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">My LinkedIn</a>
-| <a href="https://github.com/kanevk"> My Github </a>
+<a href="scdekov@gmail.com">scdekov@gmail.com</a>
+| <a href="www.linkedin.com/in/svetoslav-dekov-40aa60b4">LinkedIn</a>
+| <a href="https://github.com/scdekov"> Github </a>
 </div>
 
 
 ## Emphasis
-Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on data heavy applications and doing complex refactorings.
+Passionate developer, experienced in all stages of advanced web development. Aim for finding simple solutions to complex problems. Capable of tackling quickly new concepts and technologies. Able to effectively trace problems under pressure and implement working solutions. Enjoy working in team environment as well as bringing new practices in order to make our job easier and more pleasant.
 
 ### Strengths
-Critical and analytical thinking, openness and enthusiasm
+Fast learner, humble, passion for programming stuff.
 
 ### Technologies
 
-Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
+Python, Django, Javascript, VueJS, React, PostgreSQL, AWS 
 
 ## Professional Experience
 
-### Senior Backend Developer
+### Software Architect
 
-`2019-ongoing`
-__FM::Systems__
+`September 2019 - ongoing`
+__MentorMate__
 
-Working exclusively on Rails and NodeJS backed services. Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 100k rows) for custom time ranges. Part of my contribution is:  
-  
-- Leading a team
-- Optimizing the load time of the main page with as much as 20%
-- Speeding up the data deploys more than 100%
-- Fixing a major issue in the business critical logic under 1 day
+Leading a team which was building large scale data pipeline system using AWS Lambda, SQS, Kinesis Streams, PostgreSQL... . The main challanges on the project were ingesting data from many highly variable by data format, structure, etc sources, verifying the ingested data with custom validations and keeping the system working with low latency and low cost. 
 
-### Senior Fullstack Ruby Developer
+### Senior Fullstack Web Developer
 
-`2017-2019`
-__ReceiptBank__
+`February 2019 – September 2019`
+__MentorMate__
 
-Working under "Majestic Rails Monilth", carring refactorings and introducing new features have taught me a lot. Under excellent mentorship I've learned a lot about being pragmatic and organized. Reviewing other people's work taught me how to express myself better. Part of my contribution is:  
-  
-  - Delivering a medium feature in the first month of employment
-  - Completing full stack refactoring of an important business UI component
-  - Becoming a mandatory code reviewer of the company's biggest application
+Worked on healthcare-related web system containing Django API, VueJS front-and and IOS application. Being a key part of the whole process from clarifying client requirements to implementation, production deployment, and presentation to the client.
 
-### Full-Stack Ruby Developer
+Worked on web scraper system of giant online store. Worked very closely with the client while designing the architecture of the system. Being lead of a small team. We were using mostly AWS services like Lambda(Python) and SQS. Using serverless framework. 
 
-`2016-2017`
-__Tradeo__
+### Soware Developer at Nemetschek Bulgaria, Sofia
 
-Steping in a higher position in Tradeo, I began writing NodeJS, started managing people and actively contributed to the code review process. My achivements were:  
-  
- - Developing features and services within a highly reliable NodeJS backend
- - Building from scratch in-house Content Management System(inspirated by React) as a head developer
+`April 2015 - November 2018`
+__Nemetschek__
 
-### Junior Web Developer
+Building multiple web systems from scratch, using Django, KnockoutJS, AWS, latest CD technologies... . Also being mentor of a junior developers. Languages, technologies and tools used:
 
-`2015-2016`
-__Tradeo__
-
-Starting as a novice with mostly academical knowledge, I was very motivated and passionate about the work. I took most of the offered mentorship and managed to make my way to interesting and challenging tasks:  
-
- - Developing a transaction table component in React within the most dynamic part of the application
- - Integrating a new payment provider
+- Python, JavaScript, PHP, HTML, CSS
+- Django, NodeJS, KnockoutJS, Ansible
+- AWS: EC2, Lambda, RDS, S3, Serverless, CloudFront, APIGateway, CloudFormation
+- MySQL, Memcached, RabbitMQ, Redis
+- Linux, Git
 
 ## Education
 
 `2013-∞`
 __Faculty of Mathematics and Informatics, Sofia University, Bulgaria__
 
-Studying Bachelor Degree in Computer Science, 3rd year
+Studying Bachelor Degree in Informatics
 
-`2008-2013`
-__School of Mathematics and Nature sciences, Haskovo, Bulgaria__
+## Courses
 
-Graduated as Mathematician of class 2013
-
+`November 2018 – December 2018`
+__Machine Learning (Stanford University), Coursera
 
 <!-- ### Footer
 
