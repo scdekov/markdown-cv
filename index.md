@@ -29,7 +29,7 @@ Python, Django, Javascript, VueJS, React, PostgreSQL, AWS
 `September 2019 - ongoing`
 __MentorMate__
 
-Leading a team which was building large scale data pipeline system using AWS Lambda, SQS, Kinesis Streams, PostgreSQL... . The main challanges on the project were ingesting data from many highly variable by data format, structure, etc sources, verifying the ingested data with custom validations and keeping the system working with low latency and low cost. 
+Leading a team which was building large scale data pipeline system using AWS Lambda, SQS, Kinesis Streams, PostgreSQL... . The main challanges on the project were ingesting data from many highly variable by data type, format and structure, verifying the ingested data with custom validations and keeping the system operating under low latency and low cost. 
 
 ### Senior Fullstack Web Developer
 
