@@ -29,14 +29,14 @@ Python, Django, Javascript, PostgreSQL, AWS, VueJS, React
 `September 2019 - ongoing`
 __MentorMate__
 
-Leading a team which was building large scale data pipeline system using AWS Lambda, SQS, Kinesis Streams, PostgreSQL... . The main challanges on the project were ingesting data from many highly variable by data type, format and structure, verifying the ingested data with custom validations and keeping the system operating under low latency and low cost. 
+Leading a team that was building large scale data pipeline system using AWS Lambda, SQS, Kinesis Streams, PostgreSQL... . The main challanges on the project were ingesting data from many highly variable by data type, format, and structure, verifying the ingested data with custom validations and keeping the system operating under low latency and low cost. 
 
 ### Senior Fullstack Web Developer
 
 `February 2019 – September 2019`
 __MentorMate__
 
-Worked on healthcare-related web system containing Django API, VueJS front-and and IOS application. Being a key part of the whole process from clarifying client requirements to implementation, production deployment, and presentation to the client.
+Worked on healthcare-related web system containing Django API, VueJS front-end and IOS application. Being a key part of the whole process from clarifying client requirements to implementation, production deployment, and presentation to the client.
 
 Worked on web scraper system of giant online store. Worked very closely with the client while designing the architecture of the system. Being lead of a small team. We were using mostly AWS services like Lambda(Python) and SQS. Using serverless framework. 
 
