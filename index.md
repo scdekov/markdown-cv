@@ -20,7 +20,7 @@ Fast learner, humble, passion for programming stuff.
 
 ### Technologies
 
-Python, Django, Javascript, PostgreSQL, AWS, VueJS, React
+Python, Django, Javascript, ReactJS, PostgreSQL, AWS
 
 ## Professional Experience
 
