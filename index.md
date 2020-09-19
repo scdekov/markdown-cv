@@ -24,9 +24,25 @@ Python, Django, Javascript, PostgreSQL, AWS, VueJS, React
 
 ## Professional Experience
 
+### CTO
+
+`April 2020 - August 2020`
+<a href="https://www.bakalin.bg">__Bakalin__</a>
+
+In Bakalin we were building a platform that allows clients to order groceries from their favorite stores and have them delivered to their door.
+
+I was responsible for the technical aspect of the project which includes:
+- application for ordering products by the end client
+- application for managing products catalogs and resolving orders by shop owners
+- application for order deliveries management
+
+Tech stack: AWS, Python, Django, Celery, GraphQL, PostgreSQL, ReactJS
+
+website: https://www.bakalin.bg/
+
 ### Software Architect
 
-`September 2019 - ongoing`
+`September 2019 - April 2020`
 __MentorMate__
 
 Leading a team that was building large scale data pipeline system using AWS Lambda, SQS, Kinesis Streams, PostgreSQL... . The main challanges on the project were ingesting data from many highly variable by data type, format, and structure, verifying the ingested data with custom validations and keeping the system operating under low latency and low cost. 
@@ -56,7 +72,7 @@ Studying Bachelor Degree in Informatics
 
 ## Courses
 
-`November 2018 – December 2018`
+`August 2020 – September 2020`
 __Machine Learning (Stanford University), Coursera__
 
 <!-- ### Footer
