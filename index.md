@@ -3,7 +3,7 @@ layout: cv
 title: Svetoslav Dekov
 ---
 # Svetoslav Dekov
-Software Architect
+Software Developer
 
 <div id="webaddress">
 <a href="scdekov@gmail.com">scdekov@gmail.com</a>
