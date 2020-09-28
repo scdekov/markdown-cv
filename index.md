@@ -9,7 +9,7 @@ Software Developer
 <a href="mailto:scdekov@gmail.com">scdekov@gmail.com</a>
 | <a href="https://github.com/scdekov"> GitHub </a>
 | <a href="https://www.linkedin.com/in/svetoslav-dekov-40aa60b4">LinkedIn</a>
-| <a href="tel:+359878870383">Phone</a>
+| <a href="tel:+359878870383">+359 878 870 383</a>
 </div>
 
 
