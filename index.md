@@ -6,9 +6,9 @@ title: Svetoslav Dekov
 Software Developer
 
 <div id="webaddress">
-<a href="scdekov@gmail.com">scdekov@gmail.com</a>
+<a href="mailto:scdekov@gmail.com">scdekov@gmail.com</a>
 | <a href="https://github.com/scdekov"> GitHub </a>
-| <a href="www.linkedin.com/in/svetoslav-dekov-40aa60b4">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/svetoslav-dekov-40aa60b4">LinkedIn</a>
 | <a href="tel:+359878870383">Phone</a>
 </div>
 
