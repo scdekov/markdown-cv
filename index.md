@@ -14,10 +14,10 @@ Software Developer
 
 
 ## Emphasis
-Passionate developer, experienced in all stages of advanced web development. Aim for finding simple solutions to complex problems. Capable of tackling quickly new concepts and technologies. Able to effectively trace problems under pressure and implement working solutions. Enjoy working in team environment as well as bringing new practices in order to make our job easier and more pleasant.
+Passionate engineer, proficient in all stages of the advanced web development. Aim for finding simple solutions to complex problems. Capable of tackling quickly new concepts and technologies. Able to effectively trace problems under pressure and implement working solutions. Enjoy working in team environment as well as bringing new practices in order to make our job easier and more pleasant.
 
 ### Strengths
-Fast learner, humble, passion for programming stuff.
+Fast learner, humble, passionate about programming technologies.
 
 ### Technologies
 
@@ -35,23 +35,23 @@ In Bakalin we were building a web platform that allows clients to order grocerie
 I was responsible for building and improving the software systems and processes required for the bussiness to operate on full speed.
 
 Some of my main goals were:
-- Architecture and implementation of the different applications that were serving the system
-- Implement monitoring + notifications solution for quick tackling of unexpected problems
+- Architecture and implementation of the applications serving the business needs
+- Implement monitoring + notifications solution for quick tackling of urgent problems
 - Build CI/CD pipelines
 - Design minimalistic testing solution for maximum added value
 - Participate in bussiness meetings about planning, prioritization and product vision
 
 Tech stack: AWS(EB, CodePipeline, CodeBuild, CodeDeploy, S3), Python, Django, Celery, GraphQL, PostgreSQL, ReactJS
 
-website: https://www.bakalin.bg/
+website: <a href="https://www.bakalin.bg/">https://www.bakalin.bg/</a>
 
 ### Software Architect
 
 `September 2019 - April 2020`
-__MentorMate__/__DTN__
+__MentorMate__/<a href="https://www.dtn.com/">__DTN__</a>
 
 Building an ETL platform for manipulating high amount of weather data in near to real time speed.
-- leading small team of 4 developers
+- leading a team of 4 developers
 - utilize advanced database techniques like geometric data types, multi columnar ordered indexes, materialized views, slow query logs
 - cloud hosted solution using AWS
 - working remotely in distributed team
@@ -63,11 +63,11 @@ Tech stack: AWS(Lambda, SQS, Kinesis Streams, SNS, S3, CloudFormation), Python, 
 `February 2019 – September 2019`
 __MentorMate__
 
-Built from scratch web scraper system of giant online store. Worked very closely with the client while designing the architecture of the system. Being lead of a small team. Main goals:
-- sending tens of thousands of requests per hour successfuly
-- parsing various page structures
+Built from scratch web scraper system of giant online store. Worked very closely with the client while designing the architecture of the system. Being lead of a small highly effective team. Main goals:
+- sending hundreds of thousands of requests per hour
+- parsing complex page structures in maintainable way
 - storing the transformed data in a way that is highly optimized for fast quering
-- leading small remote team
+- leading remote team
 
 Tech stack: AWS(Lambda, SQS, CloudWatch events), Python, serverless framework, Scraping hub
 
@@ -78,7 +78,7 @@ Worked on healthcare-related web system. Being a key part of the whole process f
 ### Full Stack Web Developer
 
 `April 2015 - November 2018`
-__Nemetschek Bulgaria__/__VectorWorks__
+__Nemetschek Bulgaria__/<a href="https://www.vectorworks.net/en-GB">__VectorWorks__</a>
 
 I was part of a small team which was building the web systems surrounding big CAD software solution. Some of those systems was:
 - backoffice system used by product distributors for monitoring and management of software licenses
