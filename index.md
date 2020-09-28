@@ -48,7 +48,7 @@ website: <a href="https://www.bakalin.bg/">https://www.bakalin.bg/</a>
 ### Software Architect
 
 `September 2019 - April 2020`
-__MentorMate__/<a href="https://www.dtn.com/">__DTN__</a>
+<a href="https://mentormate.com/">__MentorMate__</a>/<a href="https://www.dtn.com/">__DTN__</a>
 
 Building an ETL platform for manipulating high amount of weather data in near to real time speed.
 - leading a team of 4 developers
@@ -61,7 +61,7 @@ Tech stack: AWS(Lambda, SQS, Kinesis Streams, SNS, S3, CloudFormation), Python, 
 ### Senior Fullstack Web Developer
 
 `February 2019 – September 2019`
-__MentorMate__
+<a href="https://mentormate.com/">__MentorMate__</a>
 
 Built from scratch web scraper system of giant online store. Worked very closely with the client while designing the architecture of the system. Being lead of a small highly effective team. Main goals:
 - sending hundreds of thousands of requests per hour
@@ -77,8 +77,8 @@ Worked on healthcare-related web system. Being a key part of the whole process f
 
 ### Full Stack Web Developer
 
-`April 2015 - November 2018`
-__Nemetschek Bulgaria__/<a href="https://www.vectorworks.net/en-GB">__VectorWorks__</a>
+`November 2015 - November 2018`
+<a href="https://www.nemetschek.bg/">__Nemetschek Bulgaria__</a>/<a href="https://www.vectorworks.net/en-GB">__VectorWorks__</a>
 
 I was part of a small team which was building the web systems surrounding big CAD software solution. Some of those systems was:
 - backoffice system used by product distributors for monitoring and management of software licenses
@@ -88,6 +88,8 @@ I was part of a small team which was building the web systems surrounding big CA
 Tech stack: Python, Django, KnockoutJS, AWS(EC2)
 
 ### Junior Web Developer
+`April 2015 - November 2015`
+<a href="https://www.nemetschek.bg/">__Nemetschek Bulgaria__</a>
 
 As a junior developer I got to know the fundamentals of how the web systems are working, the different ways for communication between services as well as some powerfull frameworks like Django which proved to be my best friends in the future.
 
